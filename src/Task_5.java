@@ -23,6 +23,6 @@ public class Task_5 {
             negativeResult++;
         }
 
-        System.out.println("В данном наборе положительны чисел: " + positiveResult + " и отрицательных чисел: " + negativeResult);
+        System.out.println("В данном наборе положительных чисел: " + positiveResult + " и отрицательных чисел: " + negativeResult);
     }
 }

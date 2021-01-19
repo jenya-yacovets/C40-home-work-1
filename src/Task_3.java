@@ -1,6 +1,6 @@
 public class Task_3 {
     public static void main(String[] args) {
-        int number = 99;
+        int number = -10;
 
         if (number > 0) {
             number++;
